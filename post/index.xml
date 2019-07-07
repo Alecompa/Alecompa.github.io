@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Alecompa-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 23:55:36 +0200</lastBuildDate>
     
 	<atom:link href="https://alecompa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second</title>
+      <link>https://alecompa.github.io/post/second/</link>
+      <pubDate>Sun, 07 Jul 2019 23:55:36 +0200</pubDate>
+      
+      <guid>https://alecompa.github.io/post/second/</guid>
+      <description>$$ E^2 = m^2 + p^2 $$
+Comae trabem a iubasque Causamque impetus manet sanguine validis et amori Lorem markdownum Anguem demisso sua adspexere; ore taceam ceciderat refers, prope utque, robora imis, his. E atria, quae viscera. Se quae caelestia illis tonitrus primus procis sepulcro vultum bracchia et nisi, et.
+Montis hac incipit gestu vertice despicere finire Thybrin avem; numerare caper. Lyra maiorque et maxima cerno hanc protendens Lycaei fuit erant impia motura mentitus.</description>
+    </item>
     
     <item>
       <title>First post</title>
