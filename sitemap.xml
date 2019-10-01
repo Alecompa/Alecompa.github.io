@@ -5,17 +5,15 @@
   <url>
     <loc>https://alecompa.github.io/</loc>
     <lastmod>2019-07-07T23:55:36+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alecompa.github.io/post/</loc>
+    <loc>https://alecompa.github.io/posts/</loc>
     <lastmod>2019-07-07T23:55:36+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alecompa.github.io/post/second/</loc>
+    <loc>https://alecompa.github.io/posts/second/</loc>
     <lastmod>2019-07-07T23:55:36+02:00</lastmod>
   </url>
   
@@ -25,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://alecompa.github.io/post/hello/</loc>
+    <loc>https://alecompa.github.io/posts/hello/</loc>
     <lastmod>2019-07-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -35,12 +33,10 @@
   
   <url>
     <loc>https://alecompa.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alecompa.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

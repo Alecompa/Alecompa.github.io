@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alecompa-Blog</title>
-    <link>https://alecompa.github.io/</link>
-    <description>Recent content on Alecompa-Blog</description>
+    <title>Posts on Alecompa-Blog</title>
+    <link>https://alecompa.github.io/posts/</link>
+    <description>Recent content in Posts on Alecompa-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Jul 2019 23:55:36 +0200</lastBuildDate>
     
-	<atom:link href="https://alecompa.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alecompa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,17 +23,6 @@ Montis hac incipit gestu vertice despicere finire Thybrin avem; numerare caper. 
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://alecompa.github.io/about/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://alecompa.github.io/about/</guid>
-      <description> Hi there My name is Alessandro Compagnucci and I&amp;rsquo;m from Italy.
-I&amp;rsquo;m a master&amp;rsquo;s student in Physics at the Università degli studi di Padova. Here I hope to write about my little side projects and interesting discoveries.
- </description>
-    </item>
-    
-    <item>
       <title>First post</title>
       <link>https://alecompa.github.io/posts/hello/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
@@ -42,15 +31,6 @@ I&amp;rsquo;m a master&amp;rsquo;s student in Physics at the Università degli s
       <description>$$ E^2 = m^2 + p^2 $$
 Comae trabem a iubasque Causamque impetus manet sanguine validis et amori Lorem markdownum Anguem demisso sua adspexere; ore taceam ceciderat refers, prope utque, robora imis, his. E atria, quae viscera. Se quae caelestia illis tonitrus primus procis sepulcro vultum bracchia et nisi, et.
 Montis hac incipit gestu vertice despicere finire Thybrin avem; numerare caper. Lyra maiorque et maxima cerno hanc protendens Lycaei fuit erant impia motura mentitus.</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>https://alecompa.github.io/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alecompa.github.io/archive/</guid>
-      <description></description>
     </item>
     
   </channel>
